@@ -1,0 +1,18 @@
+{
+  "project": "Antojitos Gaby",
+  "platform": "ios",
+  "github": {
+    "owner": "AntonyGR777",
+    "repo": "antojitosgaby"
+  },
+  "ios": {
+    "path": "ios"
+  },
+  "flutter": {
+    "version": "3.44.9",
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
